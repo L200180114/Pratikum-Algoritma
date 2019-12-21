@@ -1,0 +1,18 @@
+2.  Penjelasan program no 2 :
+    8.  Mengetahui type(Aku) karena variable Aku berisi kumpulan-kumpalan data maka dikatakan sebuah tuple
+    9.  Memanggil data di variable Aku pada baris 0 atau pertama berisi 1997
+    10. Sisa pembagian antara variable NIM dengan 4 kemudian dimasukkan kedalam variable a. 
+        Memanggil data dari variable Aku dengan nilai variable a 
+    11. type varible Aku[a] adalah float. Karena yang dipanggil adalah tinggi dan tinggi adalah berupa float maka Aku[a] adalah float
+    12. Memanggil data dari variable Aku dari a(bernilai 2) sampai 4
+    13. Mengetahui type data Aku[4]. Karena Aku[4] adalah Nama maka type data tersebut adalah String
+    14. Program error karena pada variable Aku baris pertama berupa integer kemudian dingganti dengan string maka tidak bisa atau sesuai
+
+3.  Penjelasan program no 3 :
+    15. Mengetahui type data dari variable Data yaitu tuple karena berisi kumpalan-kumpalan data 
+    16. Mengetahui type data dari variable Data pada baris 4 yaitu String karena pada baris 4 tersimpan variable nama yang berupa String
+    17. Memanggil data pada variable Data pada baris ke-4 dan menampilkan nilai String pada baris ke-5 yaitu D 
+    18. Memanggil data pada variable Data pada baris ke-4 dan menampilkan nilai String pada baris a(2) sampai baris ke-4 yaitu D jadi 'ga D'
+    19. Program error
+    20. Memanggil data dari Variable Data dari 2 kekanan
+    21. 
