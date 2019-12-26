@@ -14,3 +14,5 @@ No  | Nama bangun      | Rumus Luas
 ```
 2. Setelah program dapat berjalan, tunjukkan pada asisten. Perlihatkan bahwa data nama bangun dan rumus disimpan pada sebuah
 Dictionary.
+### Kegiatan 2. Password
+1. Buatlah sebuah program yang menanyakan *password* kepada user. Gunakan nama saudara sebagai *password* dalam program tersebut. Jika user memasukkan password benar, tampilkan pesan "Anda berhasil login" lalu program berhenti. Jika user memasukkan password yang salah, tampilkan "Maaf, anda salah "
