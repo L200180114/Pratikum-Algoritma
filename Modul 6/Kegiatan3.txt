@@ -1,0 +1,28 @@
+1.  Penjelasan Program Nomer 1 :
+    1.  Membuat String yang dimasukkan dalam Variable Nama
+    2.  Membuat String yang dimasukkan dalam Variable NIM
+    3.  Penjumlahan string 1 dengan string 114 yang diambil dari variable NIM lalu disimpan kedalam varible x
+    4.  Merubah varible x menjadi integer
+    5.  Mengukur jumlah String yang terdapat di variable Nama lalu disimpan di variable b
+
+2.  Penjelasan Program Nomer 2 :
+    6.  Mengetahui type pada variable a yang berupa integer
+    7.  Mengetahui type pada variable b yang berupa integer
+    8.  Membagi nilai dari variable a dan b menghasilkan 65.52941176470588
+    9.  Pembulatan dari pembagian dari nilai variable a dan b dengan hasil 65
+    10. Perkalian dan pengurangan dengan hasil 1150
+    11. Pangkat 2 dari nilai variable b adalah 289
+    12. Sisa hasil bagi dari variable a dan b adalah 9
+
+3. Penjelasan Program Nomer 3 :
+    13. Memasukaan nilai 12.5 kedalam variable c
+    14. Mengetahui type dari variable c yaitu float
+    15. Pembagian a dan c adalah 89.12
+    16. Pembagian bulat a dan c adalah 89
+    17. Sisa pembagian antara a dan c adalah 1.5
+
+4. Penjelasan Program Nomer 4 :
+    18. Mengetahui apakah c lebih besar dari b 
+    19. Mengetahui type c > b adalah boolean
+    20. Mengetahui apakah a lebih besar dari b dan b lebih besar dari c apabila keduanya sama maka akan menghasilkan nilai True 
+    21. Mengetahui apakah a lebih besar dari 1100 atau b lebih kecil dari 10 apabila salah satu True maka jawabannya True apabila semuanya False maka jawabannya False
